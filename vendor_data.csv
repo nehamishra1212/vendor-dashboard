@@ -1,0 +1,51 @@
+Vendor Name,Category,Country,Region,Quality Score,On-Time Delivery %,Cost Score,Lead Time (Weeks),Annual Revenue,Employees,NPI Capable,MP Capable,Engagement Status,Programs,Overall Score
+Acuity Systems,Test & Measurement,India,South Asia,80.7,61.0,62.4,11,$10M-$50M,6233,No,Yes,Under Evaluation,Alpha,68.3
+BrightPath Manufacturing,Assembly,Taiwan,East Asia,51.9,87.2,56.5,18,$50M-$200M,5702,Yes,No,Disqualified,"Alpha, Beta",65.6
+Crestline Electronics,Electronics,USA,Americas,69.6,81.1,88.8,9,>$200M,2044,No,No,Disqualified,Alpha,79.4
+Deltavex Solutions,Automation,China,East Asia,63.1,79.0,53.7,14,<$10M,792,Yes,No,Active,Gamma,65.8
+Elara Precision,Machining,Germany,Europe,92.6,75.6,76.5,11,$10M-$50M,4981,Yes,Yes,Active,Alpha,81.8
+Fortis Assembly,Assembly,Vietnam,Southeast Asia,66.9,76.8,70.4,14,$50M-$200M,4397,No,Yes,Pending Review,"Alpha, Gamma",71.4
+Galleon Tech,Electronics,South Korea,East Asia,76.3,65.1,82.0,13,$10M-$50M,6048,Yes,No,Active,"Alpha, Beta",74.1
+Harmon Automation,Automation,India,South Asia,53.2,76.1,55.0,21,<$10M,5769,No,Yes,Active,"Alpha, Beta",61.8
+Integrity MFG,Machining,China,East Asia,73.9,70.4,78.7,11,>$200M,6482,Yes,No,Pending Review,Beta,74.1
+Jansen Instruments,Test & Measurement,Germany,Europe,61.7,79.6,57.3,11,$50M-$200M,7788,Yes,Yes,On Hold,"Alpha, Gamma",66.6
+Kinetics Assembly,Assembly,Vietnam,Southeast Asia,97.0,62.1,82.7,19,$50M-$200M,3532,No,No,Pending Review,"Alpha, Beta, Gamma",80.5
+Lotus Electronics,Electronics,Taiwan,East Asia,79.6,94.7,70.5,19,$50M-$200M,6211,Yes,No,Active,Beta,82.2
+Maxon Industrial,Machining,Mexico,Americas,93.9,65.4,75.0,19,>$200M,3316,No,No,Pending Review,Beta,78.3
+Nexgen Automation,Automation,China,East Asia,54.3,97.1,56.7,13,<$10M,6320,No,No,On Hold,"Beta, Gamma",70.0
+Orbis Systems,Test & Measurement,USA,Americas,96.4,81.8,71.3,20,$50M-$200M,6488,Yes,Yes,Qualified,Alpha,83.8
+Pinnacle Assembly,Assembly,Thailand,Southeast Asia,52.0,83.0,50.9,20,$50M-$200M,4110,No,Yes,Pending Review,Alpha,62.5
+Quantum Electronics,Electronics,South Korea,East Asia,77.9,68.0,78.9,10,<$10M,1776,Yes,Yes,Qualified,"Alpha, Beta, Gamma",74.7
+Rossi Precision,Machining,Germany,Europe,60.8,96.4,92.6,4,$10M-$50M,7137,No,No,Disqualified,Alpha,82.8
+Sigma Automation,Automation,India,South Asia,64.8,82.5,62.0,19,>$200M,7452,No,Yes,Active,"Alpha, Gamma",70.2
+Titan Manufacturing,Assembly,Malaysia,Southeast Asia,73.7,81.7,86.4,14,$50M-$200M,2829,Yes,No,Pending Review,Gamma,80.3
+Unified Components,Electronics,China,East Asia,94.5,66.7,93.7,11,>$200M,2738,Yes,Yes,Under Evaluation,Beta,84.5
+Vector Precision,Machining,USA,Americas,71.4,71.5,90.9,19,<$10M,3367,Yes,No,Qualified,Gamma,77.3
+Wavefront Systems,Test & Measurement,Taiwan,East Asia,72.9,84.6,68.2,4,$10M-$50M,2400,Yes,Yes,Qualified,"Alpha, Gamma",75.6
+Xcel Assembly,Assembly,Vietnam,Southeast Asia,69.9,71.2,88.0,18,>$200M,4531,Yes,Yes,Pending Review,Beta,75.8
+Yield Electronics,Electronics,India,South Asia,53.4,76.9,61.1,18,$50M-$200M,2297,Yes,Yes,Active,"Alpha, Gamma",63.9
+Zenith Automation,Automation,China,East Asia,53.6,89.9,93.7,17,$50M-$200M,7940,Yes,Yes,Qualified,Beta,78.3
+Atlas Machining,Machining,Mexico,Americas,85.6,96.7,83.6,20,<$10M,5170,Yes,Yes,Qualified,"Alpha, Gamma",88.9
+Beacon Assembly,Assembly,Thailand,Southeast Asia,82.8,63.7,57.5,23,$50M-$200M,2887,Yes,Yes,Under Evaluation,"Alpha, Beta",68.5
+Cascade Electronics,Electronics,South Korea,East Asia,93.7,71.5,70.7,8,$50M-$200M,1075,No,Yes,Disqualified,Beta,79.0
+Dominion Automation,Automation,Germany,Europe,65.5,84.2,50.4,8,$10M-$50M,2357,No,Yes,Disqualified,Beta,67.5
+Epoch Precision,Machining,China,East Asia,53.5,83.2,94.5,15,$50M-$200M,2714,Yes,Yes,Disqualified,Beta,76.2
+Frontier Assembly,Assembly,Malaysia,Southeast Asia,63.4,79.6,75.4,18,$50M-$200M,5006,No,Yes,Under Evaluation,Beta,72.7
+Global Instruments,Test & Measurement,India,South Asia,91.3,80.1,55.1,7,$50M-$200M,1689,Yes,Yes,Pending Review,Alpha,76.5
+Helix Electronics,Electronics,Taiwan,East Asia,71.6,77.0,51.9,20,>$200M,7652,Yes,Yes,Pending Review,Alpha,67.6
+Innova Automation,Automation,USA,Americas,67.8,97.1,59.0,13,<$10M,3625,Yes,No,On Hold,"Alpha, Beta",75.4
+Junction Machining,Machining,Vietnam,Southeast Asia,88.4,72.7,60.8,7,$50M-$200M,4101,Yes,Yes,Qualified,Beta,74.6
+Keystone Assembly,Assembly,China,East Asia,89.1,63.7,91.6,12,>$200M,7575,No,No,Pending Review,"Alpha, Beta, Gamma",81.0
+Luminary Systems,Test & Measurement,South Korea,East Asia,57.0,73.6,57.3,11,>$200M,1469,No,No,Active,"Alpha, Gamma",62.9
+Meridian Electronics,Electronics,India,South Asia,63.0,81.1,81.9,17,$50M-$200M,3191,Yes,Yes,Under Evaluation,"Alpha, Beta, Gamma",75.0
+Nova Assembly,Assembly,Thailand,Southeast Asia,74.3,77.7,75.1,16,>$200M,7036,No,No,Disqualified,Alpha,75.7
+Optima Machining,Machining,China,East Asia,56.9,79.1,72.7,9,$10M-$50M,5770,No,Yes,Active,"Alpha, Beta",69.4
+Prism Automation,Automation,Germany,Europe,73.8,93.4,54.0,16,<$10M,602,Yes,No,Active,Gamma,74.7
+Quadra Electronics,Electronics,Vietnam,Southeast Asia,85.1,95.6,51.7,4,$50M-$200M,7024,No,Yes,Under Evaluation,"Alpha, Beta, Gamma",78.8
+Reliance Assembly,Assembly,Malaysia,Southeast Asia,59.6,84.0,54.8,10,$10M-$50M,3978,Yes,Yes,Pending Review,"Beta, Gamma",66.7
+Summit Instruments,Test & Measurement,USA,Americas,88.0,61.2,87.7,14,<$10M,6496,No,Yes,Qualified,"Alpha, Beta, Gamma",78.5
+Triton Electronics,Electronics,China,East Asia,57.0,67.4,87.8,21,<$10M,2500,Yes,Yes,Pending Review,"Alpha, Gamma",69.9
+Union Assembly,Assembly,India,South Asia,69.1,67.4,90.6,24,<$10M,4514,Yes,No,Pending Review,"Alpha, Gamma",75.0
+Vantage Automation,Automation,South Korea,East Asia,53.9,83.7,94.9,8,$50M-$200M,7181,No,Yes,Pending Review,Beta,76.6
+Westline Machining,Machining,Mexico,Americas,59.8,63.6,79.7,22,$50M-$200M,5397,Yes,Yes,Disqualified,"Alpha, Beta, Gamma",67.1
+Xero Systems,Test & Measurement,Taiwan,East Asia,54.0,66.7,80.8,9,>$200M,7975,Yes,Yes,On Hold,"Alpha, Beta",66.5
